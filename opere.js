@@ -154,7 +154,7 @@ const OPERE_DATA = [
   },
   {
     "id": 18,
-    "titolo": "Autoritratto con un amico",
+    "titolo": "Parnaso",
     "autore": "Raffaello Sanzio",
     "tecnica": "Non specificata",
     "periodo": "Non specificato",
@@ -784,7 +784,7 @@ const OPERE_DATA = [
   },
   {
     "id": 88,
-    "titolo": "La camera di Vincent ad Arles",
+    "titolo": "La sedia di Gauguin",
     "autore": "Vincent van Gogh",
     "tecnica": "Non specificata",
     "periodo": "Non specificato",
@@ -1108,7 +1108,7 @@ const OPERE_DATA = [
   },
   {
     "id": 124,
-    "titolo": "Vista dalla finestra a Le Gras (Prima fotografia)",
+    "titolo": "Tavola apparecchiata",
     "autore": "Joseph Nicéphore Niépce",
     "tecnica": "Non specificata",
     "periodo": "Non specificato",
